@@ -1,0 +1,19 @@
+Try:
+    article_extract.download()
+    Print('Initiating download')
+    article_extract.parse()
+    Print('Initiating parse')
+except Expection as e:
+    Print(e)
+    Print('contributing...')
+    Continue
+
+
+Print(article_extract.tittle)
+
+Simpler extract
+   
+temb_df=pd.Dataframe(column[tittle, text, source])
+temb_df(tittle)=article_extract.tittle
+temb_df(txst)=article_extract.txst
+temb_df(sourse)=article_extract.sourse url
